@@ -2,8 +2,6 @@
 <h1 align="center">Hi 🙂, I'm Utsav Jain</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-<img align="right" alt="coding" width ="250" margin = "25" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav7011&label=Profile%20views&color=0e75b6&style=flat" alt="utsav7011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsav7011" alt="utsav7011" /></a> </p>
@@ -12,15 +10,13 @@
 
 - 🔭 I’m currently working on [on the Twitter Clone Project](https://github.com/utsav7011/twitterCLone.git)
 
-- 🌱 I’m currently learning **Android Development, Data Structures and Algorithms in C++**
+- 🌱 I’m currently learning **Full Stack Web Development, Android Development, Data Structures and Algorithms in C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/utsav7011](https://github.com/utsav7011)
 
-- 💬 Ask me about **C++ , Kotlin, Android Development**
+- 💬 Ask me about **MongoDb, Express.js, React.js, Node.js, Next.js, C++ , Kotlin, Android Development**
 
 - 📫 How to reach me **utsav7011@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GpeNUGE0YZ1w7kEbLTm9-8JOi69oYyQa/view?usp=sharing](https://drive.google.com/file/d/1GpeNUGE0YZ1w7kEbLTm9-8JOi69oYyQa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
